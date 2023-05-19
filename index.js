@@ -13,7 +13,7 @@ function converterTemp() {
 
     if (tempInput > 40) {
         document.body.style.backgroundColor = '#cf0a00';
-        imagem.src = 'IMGs/gato_mucho_calor.png'
+        imagem.src = 'IMGs/gato_mucho_calor.gif'
         desc.innerHTML = 'O ventilador não é mais o suficiente. ABAIXE A TEMPERATURA!!!'
     }
     else if (tempInput <= 40 && tempInput > 30) {
