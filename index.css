@@ -17,18 +17,12 @@ body {
 
 }
 
-#gato5 {
-    display: none;
+#tempRange {
+    margin-bottom: 20px;
 }
 
-#gato4 {
-    display: none;
-}
-
-#gato2 {
-    display: none;
-}
-
-#gato1 {
-    display: none;
+#gato {
+    border: black solid 2px;
+    border-radius: 25px;
+    margin: 80px;
 }

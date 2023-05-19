@@ -9,7 +9,7 @@ function converterTemp() {
     var tempKelvin = Math.round(parseFloat(tempInput) + 273);
 
     var imagem = document.getElementById('gato');
-    var desc = document.getElementById('descricao')
+    var desc = document.getElementById('descricao');
 
     if (tempInput > 40) {
         document.body.style.backgroundColor = '#cf0a00';
