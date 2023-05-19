@@ -1,0 +1,34 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    transition: background-color 0.5s ease;
+
+}
+
+#gato5 {
+    display: none;
+}
+
+#gato4 {
+    display: none;
+}
+
+#gato2 {
+    display: none;
+}
+
+#gato1 {
+    display: none;
+}
